@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\19.Trapezoid\bin\Debug\19.Trapezoid.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\19.Trapezoid\obj\Debug\19.Trapezoid.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\19.Trapezoid\obj\Debug\19.Trapezoid.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\19.Trapezoid\bin\Debug\19.Trapezoid.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\19.Trapezoid\bin\Debug\19.Trapezoid.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\19.Trapezoid\obj\Debug\+19.Trapezoid.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\C#\Homework\01.Introduction-To-Programming-Homework\04.Numbers\bin\Debug\04.Numbers.exe.config
+D:\C#\Homework\01.Introduction-To-Programming-Homework\04.Numbers\bin\Debug\04.Numbers.exe
+D:\C#\Homework\01.Introduction-To-Programming-Homework\04.Numbers\bin\Debug\04.Numbers.pdb
+D:\C#\Homework\01.Introduction-To-Programming-Homework\04.Numbers\obj\Debug\04.Numbers.exe
+D:\C#\Homework\01.Introduction-To-Programming-Homework\04.Numbers\obj\Debug\04.Numbers.pdb
+D:\Bo\C#\Homework\01.Introduction-To-Programming-Homework\04.Numbers\bin\Debug\04.Numbers.exe.config
+D:\Bo\C#\Homework\01.Introduction-To-Programming-Homework\04.Numbers\obj\Debug\04.Numbers.exe
+D:\Bo\C#\Homework\01.Introduction-To-Programming-Homework\04.Numbers\obj\Debug\04.Numbers.pdb
+D:\Bo\C#\Homework\01.Introduction-To-Programming-Homework\04.Numbers\bin\Debug\04.Numbers.exe
+D:\Bo\C#\Homework\01.Introduction-To-Programming-Homework\04.Numbers\bin\Debug\04.Numbers.pdb

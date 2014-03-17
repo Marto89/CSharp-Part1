@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\04.Console-Input-Output-Homework\03.CompanyInfo\bin\Debug\03.CompanyInfo.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\04.Console-Input-Output-Homework\03.CompanyInfo\bin\Debug\03.CompanyInfo.exe
+c:\users\marto\documents\visual studio 2013\Projects\04.Console-Input-Output-Homework\03.CompanyInfo\bin\Debug\03.CompanyInfo.pdb
+c:\users\marto\documents\visual studio 2013\Projects\04.Console-Input-Output-Homework\03.CompanyInfo\obj\Debug\03.CompanyInfo.exe
+c:\users\marto\documents\visual studio 2013\Projects\04.Console-Input-Output-Homework\03.CompanyInfo\obj\Debug\03.CompanyInfo.pdb
+c:\users\marto\documents\visual studio 2013\Projects\04.Console-Input-Output-Homework\03.CompanyInfo\obj\Debug\03.CompanyInfo.csprojResolveAssemblyReference.cache

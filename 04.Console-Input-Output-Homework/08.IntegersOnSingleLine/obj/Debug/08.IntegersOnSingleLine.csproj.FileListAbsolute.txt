@@ -1,0 +1,5 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\04.Console-Input-Output-Homework\08.IntegersOnSingleLine\bin\Debug\08.IntegersOnSingleLine.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\04.Console-Input-Output-Homework\08.IntegersOnSingleLine\bin\Debug\08.IntegersOnSingleLine.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\04.Console-Input-Output-Homework\08.IntegersOnSingleLine\bin\Debug\08.IntegersOnSingleLine.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\04.Console-Input-Output-Homework\08.IntegersOnSingleLine\obj\Debug\08.IntegersOnSingleLine.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\04.Console-Input-Output-Homework\08.IntegersOnSingleLine\obj\Debug\08.IntegersOnSingleLine.pdb

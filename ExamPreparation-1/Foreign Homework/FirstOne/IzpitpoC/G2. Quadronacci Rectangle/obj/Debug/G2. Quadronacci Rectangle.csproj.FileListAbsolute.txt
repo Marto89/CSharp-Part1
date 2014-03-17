@@ -1,0 +1,6 @@
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\G2. Quadronacci Rectangle\bin\Debug\G2.Quadronacci_Rectangle.exe.config
+C:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\G2. Quadronacci Rectangle\bin\Debug\G2.Quadronacci_Rectangle.exe
+C:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\G2. Quadronacci Rectangle\bin\Debug\G2.Quadronacci_Rectangle.pdb
+C:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\G2. Quadronacci Rectangle\obj\Debug\G2. Quadronacci Rectangle.csprojResolveAssemblyReference.cache
+C:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\G2. Quadronacci Rectangle\obj\Debug\G2.Quadronacci_Rectangle.exe
+C:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\G2. Quadronacci Rectangle\obj\Debug\G2.Quadronacci_Rectangle.pdb

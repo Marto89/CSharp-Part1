@@ -1,0 +1,15 @@
+c:\users\marto\documents\visual studio 2013\Projects\Introduction-to-Programming\2.HelloCSharp\bin\Debug\2.HelloCSharp.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Introduction-to-Programming\2.HelloCSharp\bin\Debug\2.HelloCSharp.exe
+c:\users\marto\documents\visual studio 2013\Projects\Introduction-to-Programming\2.HelloCSharp\bin\Debug\2.HelloCSharp.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Introduction-to-Programming\2.HelloCSharp\obj\Debug\2.HelloCSharp.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\Introduction-to-Programming\2.HelloCSharp\obj\Debug\2.HelloCSharp.exe
+c:\users\marto\documents\visual studio 2013\Projects\Introduction-to-Programming\2.HelloCSharp\obj\Debug\2.HelloCSharp.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\1.Introduction-to-Programming-Homework\2.HelloCSharp\bin\Debug\2.HelloCSharp.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\1.Introduction-to-Programming-Homework\2.HelloCSharp\obj\Debug\2.HelloCSharp.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\1.Introduction-to-Programming-Homework\2.HelloCSharp\obj\Debug\2.HelloCSharp.pdb
+F:\Programming Tools\Visual Studio 2013\Projects\C#Part1-Homework\01.Introduction-to-Programming-Homework\2.HelloCSharp\bin\Debug\2.HelloCSharp.exe.config
+F:\Programming Tools\Visual Studio 2013\Projects\C#Part1-Homework\01.Introduction-to-Programming-Homework\2.HelloCSharp\obj\Debug\2.HelloCSharp.exe
+F:\Programming Tools\Visual Studio 2013\Projects\C#Part1-Homework\01.Introduction-to-Programming-Homework\2.HelloCSharp\obj\Debug\2.HelloCSharp.pdb
+F:\Programming Tools\Visual Studio 2013\Projects\C#Part1-Homework\01.Introduction-to-Programming-Homework\2.HelloCSharp\bin\Debug\2.HelloCSharp.exe
+F:\Programming Tools\Visual Studio 2013\Projects\C#Part1-Homework\01.Introduction-to-Programming-Homework\2.HelloCSharp\bin\Debug\2.HelloCSharp.pdb
+F:\Programming Tools\Visual Studio 2013\Projects\C#Part1-Homework\01.Introduction-to-Programming-Homework\2.HelloCSharp\obj\Debug\2.HelloCSharp.csprojResolveAssemblyReference.cache

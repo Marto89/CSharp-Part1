@@ -1,0 +1,6 @@
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\Pillars\bin\Debug\Pillars.exe.config
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\Pillars\bin\Debug\Pillars.exe
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\Pillars\bin\Debug\Pillars.pdb
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\Pillars\obj\Debug\Pillars.csprojResolveAssemblyReference.cache
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\Pillars\obj\Debug\Pillars.exe
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\Pillars\obj\Debug\Pillars.pdb

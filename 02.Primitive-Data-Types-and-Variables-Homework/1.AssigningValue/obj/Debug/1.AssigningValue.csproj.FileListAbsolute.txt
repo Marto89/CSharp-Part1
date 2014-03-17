@@ -1,0 +1,5 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2.Primitive-Data-Types-and-Variables-Homework\1.AssigningValue\bin\Debug\1.AssigningValue.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2.Primitive-Data-Types-and-Variables-Homework\1.AssigningValue\bin\Debug\1.AssigningValue.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2.Primitive-Data-Types-and-Variables-Homework\1.AssigningValue\bin\Debug\1.AssigningValue.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2.Primitive-Data-Types-and-Variables-Homework\1.AssigningValue\obj\Debug\1.AssigningValue.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2.Primitive-Data-Types-and-Variables-Homework\1.AssigningValue\obj\Debug\1.AssigningValue.pdb

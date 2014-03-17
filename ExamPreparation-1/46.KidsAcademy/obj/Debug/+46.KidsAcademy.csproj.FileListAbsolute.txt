@@ -1,0 +1,3 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\46.KidsAcademy\bin\Debug\46.KidsAcademy.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\46.KidsAcademy\obj\Debug\46.KidsAcademy.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\46.KidsAcademy\obj\Debug\46.KidsAcademy.pdb

@@ -1,0 +1,5 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\26.Pillars\bin\Debug\26.Pillars.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\26.Pillars\bin\Debug\26.Pillars.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\26.Pillars\bin\Debug\26.Pillars.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\26.Pillars\obj\Debug\26.Pillars.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\26.Pillars\obj\Debug\26.Pillars.pdb

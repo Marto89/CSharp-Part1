@@ -1,0 +1,3 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\29.DancingBits\bin\Debug\29.DancingBits.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\29.DancingBits\obj\Debug\29.DancingBits.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\29.DancingBits\obj\Debug\29.DancingBits.pdb

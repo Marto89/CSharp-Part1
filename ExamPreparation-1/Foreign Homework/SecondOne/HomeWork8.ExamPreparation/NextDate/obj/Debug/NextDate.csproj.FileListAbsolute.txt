@@ -1,0 +1,6 @@
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\NextDate\bin\Debug\NextDate.exe.config
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\NextDate\bin\Debug\NextDate.exe
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\NextDate\bin\Debug\NextDate.pdb
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\NextDate\obj\Debug\NextDate.csprojResolveAssemblyReference.cache
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\NextDate\obj\Debug\NextDate.exe
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\NextDate\obj\Debug\NextDate.pdb

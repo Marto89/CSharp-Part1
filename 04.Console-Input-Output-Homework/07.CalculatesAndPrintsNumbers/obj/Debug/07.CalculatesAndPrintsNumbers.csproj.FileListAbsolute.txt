@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\04.Console-Input-Output-Homework\07.CalculatesAndPrintsNumbers\bin\Debug\07.CalculatesAndPrintsNumbers.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\04.Console-Input-Output-Homework\07.CalculatesAndPrintsNumbers\bin\Debug\07.CalculatesAndPrintsNumbers.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\04.Console-Input-Output-Homework\07.CalculatesAndPrintsNumbers\bin\Debug\07.CalculatesAndPrintsNumbers.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\04.Console-Input-Output-Homework\07.CalculatesAndPrintsNumbers\obj\Debug\07.CalculatesAndPrintsNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\04.Console-Input-Output-Homework\07.CalculatesAndPrintsNumbers\obj\Debug\07.CalculatesAndPrintsNumbers.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\04.Console-Input-Output-Homework\07.CalculatesAndPrintsNumbers\obj\Debug\07.CalculatesAndPrintsNumbers.pdb

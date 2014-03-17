@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\10.NCatalanNumber\bin\Debug\10.NCatalanNumber.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\10.NCatalanNumber\bin\Debug\10.NCatalanNumber.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\10.NCatalanNumber\bin\Debug\10.NCatalanNumber.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\10.NCatalanNumber\obj\Debug\10.NCatalanNumber.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\10.NCatalanNumber\obj\Debug\10.NCatalanNumber.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\10.NCatalanNumber\obj\Debug\10.NCatalanNumber.pdb

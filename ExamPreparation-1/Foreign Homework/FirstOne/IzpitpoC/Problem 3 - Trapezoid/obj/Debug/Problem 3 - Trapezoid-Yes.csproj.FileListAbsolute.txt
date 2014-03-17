@@ -1,0 +1,6 @@
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\Problem 3 - Trapezoid\bin\Debug\Problem 3 - Trapezoid.exe.config
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\Problem 3 - Trapezoid\obj\Debug\Problem 3 - Trapezoid.exe
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\Problem 3 - Trapezoid\obj\Debug\Problem 3 - Trapezoid.pdb
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\Problem 3 - Trapezoid\bin\Debug\Problem 3 - Trapezoid.exe
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\Problem 3 - Trapezoid\bin\Debug\Problem 3 - Trapezoid.pdb
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\Problem 3 - Trapezoid\obj\Debug\Problem 3 - Trapezoid-Yes.csprojResolveAssemblyReference.cache

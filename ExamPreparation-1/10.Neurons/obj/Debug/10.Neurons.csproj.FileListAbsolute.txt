@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\10.Neurons\bin\Debug\10.Neurons.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\10.Neurons\bin\Debug\10.Neurons.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\10.Neurons\bin\Debug\10.Neurons.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\10.Neurons\obj\Debug\10.Neurons.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\10.Neurons\obj\Debug\10.Neurons.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\10.Neurons\obj\Debug\10.Neurons.pdb

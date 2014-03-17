@@ -1,0 +1,5 @@
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\WeAllLoveBits\bin\Debug\WeAllLoveBits.exe.config
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\WeAllLoveBits\bin\Debug\WeAllLoveBits.exe
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\WeAllLoveBits\bin\Debug\WeAllLoveBits.pdb
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\WeAllLoveBits\obj\Debug\WeAllLoveBits.exe
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\WeAllLoveBits\obj\Debug\WeAllLoveBits.pdb

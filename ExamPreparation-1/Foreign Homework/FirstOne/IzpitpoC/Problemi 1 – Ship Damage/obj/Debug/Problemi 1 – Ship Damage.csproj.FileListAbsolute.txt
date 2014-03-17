@@ -1,0 +1,5 @@
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Problemi 1 – Ship Damage\bin\Debug\Problemi 1 – Ship Damage.exe.config
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Problemi 1 – Ship Damage\bin\Debug\Problemi 1 – Ship Damage.exe
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Problemi 1 – Ship Damage\bin\Debug\Problemi 1 – Ship Damage.pdb
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Problemi 1 – Ship Damage\obj\Debug\Problemi 1 – Ship Damage.exe
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Problemi 1 – Ship Damage\obj\Debug\Problemi 1 – Ship Damage.pdb

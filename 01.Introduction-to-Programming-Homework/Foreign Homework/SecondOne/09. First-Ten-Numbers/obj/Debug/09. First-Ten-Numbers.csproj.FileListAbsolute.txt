@@ -1,0 +1,12 @@
+D:\C#\Homework\01.Introduction-To-Programming-Homework\09. First-Ten-Numbers\bin\Debug\_09.First_Ten_Numbers.exe.config
+D:\C#\Homework\01.Introduction-To-Programming-Homework\09. First-Ten-Numbers\obj\Debug\09. First-Ten-Numbers.csprojResolveAssemblyReference.cache
+D:\C#\Homework\01.Introduction-To-Programming-Homework\09. First-Ten-Numbers\bin\Debug\_09.First_Ten_Numbers.exe
+D:\C#\Homework\01.Introduction-To-Programming-Homework\09. First-Ten-Numbers\bin\Debug\_09.First_Ten_Numbers.pdb
+D:\C#\Homework\01.Introduction-To-Programming-Homework\09. First-Ten-Numbers\obj\Debug\_09.First_Ten_Numbers.exe
+D:\C#\Homework\01.Introduction-To-Programming-Homework\09. First-Ten-Numbers\obj\Debug\_09.First_Ten_Numbers.pdb
+D:\Bo\C#\Homework\01.Introduction-To-Programming-Homework\09. First-Ten-Numbers\bin\Debug\_09.First_Ten_Numbers.exe.config
+D:\Bo\C#\Homework\01.Introduction-To-Programming-Homework\09. First-Ten-Numbers\obj\Debug\_09.First_Ten_Numbers.exe
+D:\Bo\C#\Homework\01.Introduction-To-Programming-Homework\09. First-Ten-Numbers\obj\Debug\_09.First_Ten_Numbers.pdb
+D:\Bo\C#\Homework\01.Introduction-To-Programming-Homework\09. First-Ten-Numbers\bin\Debug\_09.First_Ten_Numbers.exe
+D:\Bo\C#\Homework\01.Introduction-To-Programming-Homework\09. First-Ten-Numbers\bin\Debug\_09.First_Ten_Numbers.pdb
+D:\Bo\C#\Homework\01.Introduction-To-Programming-Homework\09. First-Ten-Numbers\obj\Debug\09. First-Ten-Numbers.csprojResolveAssemblyReference.cache

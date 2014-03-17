@@ -1,0 +1,5 @@
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Problemi 2 – Tribonacci\bin\Debug\Problemi 2 – Tribonacci.exe.config
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Problemi 2 – Tribonacci\bin\Debug\Problemi 2 – Tribonacci.exe
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Problemi 2 – Tribonacci\bin\Debug\Problemi 2 – Tribonacci.pdb
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Problemi 2 – Tribonacci\obj\Debug\Problemi 2 – Tribonacci.exe
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Problemi 2 – Tribonacci\obj\Debug\Problemi 2 – Tribonacci.pdb

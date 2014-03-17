@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\05.Conditional-Statements-Homework\05.DigitName\bin\Debug\05.DigitName.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\05.Conditional-Statements-Homework\05.DigitName\bin\Debug\05.DigitName.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\05.Conditional-Statements-Homework\05.DigitName\bin\Debug\05.DigitName.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\05.Conditional-Statements-Homework\05.DigitName\obj\Debug\05.DigitName.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\05.Conditional-Statements-Homework\05.DigitName\obj\Debug\05.DigitName.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\05.Conditional-Statements-Homework\05.DigitName\obj\Debug\05.DigitName.pdb

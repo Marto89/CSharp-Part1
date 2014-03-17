@@ -1,0 +1,9 @@
+c:\users\marto\documents\visual studio 2013\Projects\Introduction-to-Programming\6.PrintFirstLastName\bin\Debug\6.PrintFirstLastName.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Introduction-to-Programming\6.PrintFirstLastName\bin\Debug\6.PrintFirstLastName.exe
+c:\users\marto\documents\visual studio 2013\Projects\Introduction-to-Programming\6.PrintFirstLastName\bin\Debug\6.PrintFirstLastName.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Introduction-to-Programming\6.PrintFirstLastName\obj\Debug\6.PrintFirstLastName.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\Introduction-to-Programming\6.PrintFirstLastName\obj\Debug\6.PrintFirstLastName.exe
+c:\users\marto\documents\visual studio 2013\Projects\Introduction-to-Programming\6.PrintFirstLastName\obj\Debug\6.PrintFirstLastName.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\1.Introduction-to-Programming-Homework\6.PrintFirstLastName\bin\Debug\6.PrintFirstLastName.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\1.Introduction-to-Programming-Homework\6.PrintFirstLastName\obj\Debug\6.PrintFirstLastName.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\1.Introduction-to-Programming-Homework\6.PrintFirstLastName\obj\Debug\6.PrintFirstLastName.pdb

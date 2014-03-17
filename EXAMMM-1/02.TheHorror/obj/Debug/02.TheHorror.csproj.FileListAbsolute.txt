@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\EXAMMM\02.TheHorror\bin\Debug\02.TheHorror.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\EXAMMM\02.TheHorror\bin\Debug\02.TheHorror.exe
+c:\users\marto\documents\visual studio 2013\Projects\EXAMMM\02.TheHorror\bin\Debug\02.TheHorror.pdb
+c:\users\marto\documents\visual studio 2013\Projects\EXAMMM\02.TheHorror\obj\Debug\02.TheHorror.exe
+c:\users\marto\documents\visual studio 2013\Projects\EXAMMM\02.TheHorror\obj\Debug\02.TheHorror.pdb
+c:\users\marto\documents\visual studio 2013\Projects\EXAMMM\02.TheHorror\obj\Debug\02.TheHorror.csprojResolveAssemblyReference.cache

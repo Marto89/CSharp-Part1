@@ -1,0 +1,6 @@
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\02.Problem 2 – Astrological Digits\bin\Debug\02.Problem 2 – Astrological Digits.exe.config
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\02.Problem 2 – Astrological Digits\bin\Debug\02.Problem 2 – Astrological Digits.exe
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\02.Problem 2 – Astrological Digits\bin\Debug\02.Problem 2 – Astrological Digits.pdb
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\02.Problem 2 – Astrological Digits\obj\Debug\02.Problem 2 – Astrological Digits.csprojResolveAssemblyReference.cache
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\02.Problem 2 – Astrological Digits\obj\Debug\02.Problem 2 – Astrological Digits.exe
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\02.Problem 2 – Astrological Digits\obj\Debug\02.Problem 2 – Astrological Digits.pdb

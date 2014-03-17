@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\06.SumOfSeries\bin\Debug\06.SumOfSeries.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\06.SumOfSeries\obj\Debug\06.SumOfSeries.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\06.SumOfSeries\bin\Debug\06.SumOfSeries.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\06.SumOfSeries\bin\Debug\06.SumOfSeries.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\06.SumOfSeries\obj\Debug\06.SumOfSeries.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\06.SumOfSeries\obj\Debug\06.SumOfSeries.pdb

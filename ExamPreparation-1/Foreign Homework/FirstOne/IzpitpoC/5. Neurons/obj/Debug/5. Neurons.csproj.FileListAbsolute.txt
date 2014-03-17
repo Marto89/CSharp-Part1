@@ -1,0 +1,5 @@
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\5. Neurons\bin\Debug\_5.Neurons.exe.config
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\5. Neurons\bin\Debug\_5.Neurons.exe
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\5. Neurons\bin\Debug\_5.Neurons.pdb
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\5. Neurons\obj\Debug\_5.Neurons.exe
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\5. Neurons\obj\Debug\_5.Neurons.pdb

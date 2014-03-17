@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\05.Conditional-Statements-Homework\06.QuadricEquation\bin\Debug\06.QuadricEquation.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\05.Conditional-Statements-Homework\06.QuadricEquation\bin\Debug\06.QuadricEquation.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\05.Conditional-Statements-Homework\06.QuadricEquation\bin\Debug\06.QuadricEquation.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\05.Conditional-Statements-Homework\06.QuadricEquation\obj\Debug\06.QuadricEquation.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\05.Conditional-Statements-Homework\06.QuadricEquation\obj\Debug\06.QuadricEquation.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\05.Conditional-Statements-Homework\06.QuadricEquation\obj\Debug\06.QuadricEquation.pdb

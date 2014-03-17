@@ -1,0 +1,6 @@
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\Tribonaci\bin\Debug\Tribonaci.exe.config
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\Tribonaci\bin\Debug\Tribonaci.exe
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\Tribonaci\bin\Debug\Tribonaci.pdb
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\Tribonaci\obj\Debug\Tribonaci.csprojResolveAssemblyReference.cache
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\Tribonaci\obj\Debug\Tribonaci.exe
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\Tribonaci\obj\Debug\Tribonaci.pdb

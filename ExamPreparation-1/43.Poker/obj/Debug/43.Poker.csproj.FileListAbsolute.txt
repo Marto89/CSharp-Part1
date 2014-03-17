@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\43.Poker\bin\Debug\43.Poker.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\43.Poker\bin\Debug\43.Poker.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\43.Poker\bin\Debug\43.Poker.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\43.Poker\obj\Debug\43.Poker.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\43.Poker\obj\Debug\43.Poker.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\43.Poker\obj\Debug\43.Poker.csprojResolveAssemblyReference.cache

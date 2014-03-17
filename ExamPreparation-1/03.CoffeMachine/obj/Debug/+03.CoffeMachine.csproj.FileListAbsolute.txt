@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\03.CoffeMachine\bin\Debug\03.CoffeMachine.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\03.CoffeMachine\obj\Debug\03.CoffeMachine.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\03.CoffeMachine\obj\Debug\03.CoffeMachine.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\03.CoffeMachine\bin\Debug\03.CoffeMachine.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\03.CoffeMachine\bin\Debug\03.CoffeMachine.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\03.CoffeMachine\obj\Debug\+03.CoffeMachine.csprojResolveAssemblyReference.cache

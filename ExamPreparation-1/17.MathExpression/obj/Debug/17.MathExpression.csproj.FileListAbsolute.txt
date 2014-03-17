@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\17.MathExpression\bin\Debug\17.MathExpression.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\17.MathExpression\bin\Debug\17.MathExpression.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\17.MathExpression\bin\Debug\17.MathExpression.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\17.MathExpression\obj\Debug\17.MathExpression.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\17.MathExpression\obj\Debug\17.MathExpression.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\17.MathExpression\obj\Debug\17.MathExpression.csprojResolveAssemblyReference.cache

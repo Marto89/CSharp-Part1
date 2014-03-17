@@ -1,0 +1,6 @@
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\AstrologicalDigits\bin\Debug\AstrologicalDigits.exe.config
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\AstrologicalDigits\bin\Debug\AstrologicalDigits.exe
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\AstrologicalDigits\bin\Debug\AstrologicalDigits.pdb
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\AstrologicalDigits\obj\Debug\AstrologicalDigits.csprojResolveAssemblyReference.cache
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\AstrologicalDigits\obj\Debug\AstrologicalDigits.exe
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\AstrologicalDigits\obj\Debug\AstrologicalDigits.pdb

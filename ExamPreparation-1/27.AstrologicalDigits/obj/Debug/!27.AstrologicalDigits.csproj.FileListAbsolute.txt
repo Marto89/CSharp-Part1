@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\27.AstrologicalDigits\bin\Debug\27.AstrologicalDigits.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\27.AstrologicalDigits\obj\Debug\27.AstrologicalDigits.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\27.AstrologicalDigits\obj\Debug\27.AstrologicalDigits.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\27.AstrologicalDigits\bin\Debug\27.AstrologicalDigits.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\27.AstrologicalDigits\bin\Debug\27.AstrologicalDigits.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\27.AstrologicalDigits\obj\Debug\!27.AstrologicalDigits.csprojResolveAssemblyReference.cache

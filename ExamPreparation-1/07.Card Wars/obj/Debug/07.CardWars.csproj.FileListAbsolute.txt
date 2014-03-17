@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\07.Card Wars\obj\Debug\07.CardWars.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\07.Card Wars\bin\Debug\07.Card Wars.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\07.Card Wars\bin\Debug\07.Card Wars.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\07.Card Wars\bin\Debug\07.Card Wars.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\07.Card Wars\obj\Debug\07.Card Wars.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\07.Card Wars\obj\Debug\07.Card Wars.pdb

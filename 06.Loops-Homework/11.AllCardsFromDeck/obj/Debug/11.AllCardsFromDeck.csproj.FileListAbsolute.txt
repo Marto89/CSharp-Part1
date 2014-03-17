@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\11.AllCardsFromDeck\bin\Debug\11.AllCardsFromDeck.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\11.AllCardsFromDeck\obj\Debug\11.AllCardsFromDeck.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\11.AllCardsFromDeck\bin\Debug\11.AllCardsFromDeck.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\11.AllCardsFromDeck\bin\Debug\11.AllCardsFromDeck.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\11.AllCardsFromDeck\obj\Debug\11.AllCardsFromDeck.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\11.AllCardsFromDeck\obj\Debug\11.AllCardsFromDeck.pdb

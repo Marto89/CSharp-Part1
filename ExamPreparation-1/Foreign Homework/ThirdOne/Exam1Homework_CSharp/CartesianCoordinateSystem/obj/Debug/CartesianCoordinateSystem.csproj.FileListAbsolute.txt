@@ -1,0 +1,9 @@
+c:\users\mirelle\documents\visual studio 2013\Projects\Exam1Homework_CSharp\CartesianCoordinateSystem\bin\Debug\CartesianCoordinateSystem.exe.config
+c:\users\mirelle\documents\visual studio 2013\Projects\Exam1Homework_CSharp\CartesianCoordinateSystem\bin\Debug\CartesianCoordinateSystem.exe
+c:\users\mirelle\documents\visual studio 2013\Projects\Exam1Homework_CSharp\CartesianCoordinateSystem\bin\Debug\CartesianCoordinateSystem.pdb
+c:\users\mirelle\documents\visual studio 2013\Projects\Exam1Homework_CSharp\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.csprojResolveAssemblyReference.cache
+c:\users\mirelle\documents\visual studio 2013\Projects\Exam1Homework_CSharp\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.exe
+c:\users\mirelle\documents\visual studio 2013\Projects\Exam1Homework_CSharp\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ExamPreparation\Foreign Homework\ThirdOne\Exam1Homework_CSharp\CartesianCoordinateSystem\bin\Debug\CartesianCoordinateSystem.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ExamPreparation\Foreign Homework\ThirdOne\Exam1Homework_CSharp\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ExamPreparation\Foreign Homework\ThirdOne\Exam1Homework_CSharp\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.pdb

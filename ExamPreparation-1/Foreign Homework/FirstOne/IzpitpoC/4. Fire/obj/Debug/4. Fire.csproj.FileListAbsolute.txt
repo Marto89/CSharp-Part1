@@ -1,0 +1,5 @@
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\4. Fire\bin\Debug\_4.Fire.exe.config
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\4. Fire\bin\Debug\_4.Fire.exe
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\4. Fire\bin\Debug\_4.Fire.pdb
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\4. Fire\obj\Debug\_4.Fire.exe
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\4. Fire\obj\Debug\_4.Fire.pdb

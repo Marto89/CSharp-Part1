@@ -1,0 +1,3 @@
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Problem 1 - Math Expression\bin\Debug\Problem 1 - Math Expression.exe.config
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Problem 1 - Math Expression\obj\Debug\Problem 1 - Math Expression.exe
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Problem 1 - Math Expression\obj\Debug\Problem 1 - Math Expression.pdb

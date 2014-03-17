@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\05.Conditional-Statements-Homework\03.TheBiggestInteger\bin\Debug\03.TheBiggestInteger.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\05.Conditional-Statements-Homework\03.TheBiggestInteger\obj\Debug\03.TheBiggestInteger.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\05.Conditional-Statements-Homework\03.TheBiggestInteger\bin\Debug\03.TheBiggestInteger.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\05.Conditional-Statements-Homework\03.TheBiggestInteger\bin\Debug\03.TheBiggestInteger.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\05.Conditional-Statements-Homework\03.TheBiggestInteger\obj\Debug\03.TheBiggestInteger.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\05.Conditional-Statements-Homework\03.TheBiggestInteger\obj\Debug\03.TheBiggestInteger.pdb

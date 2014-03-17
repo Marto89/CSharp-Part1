@@ -1,0 +1,5 @@
+c:\users\marto\documents\visual studio 2013\Projects\04.Console-Input-Output-Homework\02.RadiusOfACircle\bin\Debug\02.RadiusOfACircle.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\04.Console-Input-Output-Homework\02.RadiusOfACircle\bin\Debug\02.RadiusOfACircle.exe
+c:\users\marto\documents\visual studio 2013\Projects\04.Console-Input-Output-Homework\02.RadiusOfACircle\bin\Debug\02.RadiusOfACircle.pdb
+c:\users\marto\documents\visual studio 2013\Projects\04.Console-Input-Output-Homework\02.RadiusOfACircle\obj\Debug\02.RadiusOfACircle.exe
+c:\users\marto\documents\visual studio 2013\Projects\04.Console-Input-Output-Homework\02.RadiusOfACircle\obj\Debug\02.RadiusOfACircle.pdb

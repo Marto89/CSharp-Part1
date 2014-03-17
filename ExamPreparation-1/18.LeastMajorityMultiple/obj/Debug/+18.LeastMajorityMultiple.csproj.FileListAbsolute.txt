@@ -1,0 +1,5 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\18.LeastMajorityMultiple\bin\Debug\18.LeastMajorityMultiple.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\18.LeastMajorityMultiple\obj\Debug\18.LeastMajorityMultiple.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\18.LeastMajorityMultiple\obj\Debug\18.LeastMajorityMultiple.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\18.LeastMajorityMultiple\bin\Debug\18.LeastMajorityMultiple.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\18.LeastMajorityMultiple\bin\Debug\18.LeastMajorityMultiple.pdb

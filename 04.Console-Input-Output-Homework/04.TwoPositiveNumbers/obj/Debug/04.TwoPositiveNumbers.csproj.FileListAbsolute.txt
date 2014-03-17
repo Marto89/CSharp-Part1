@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\04.Console-Input-Output-Homework\04.TwoPositiveNumbers\bin\Debug\04.TwoPositiveNumbers.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\04.Console-Input-Output-Homework\04.TwoPositiveNumbers\bin\Debug\04.TwoPositiveNumbers.exe
+c:\users\marto\documents\visual studio 2013\Projects\04.Console-Input-Output-Homework\04.TwoPositiveNumbers\bin\Debug\04.TwoPositiveNumbers.pdb
+c:\users\marto\documents\visual studio 2013\Projects\04.Console-Input-Output-Homework\04.TwoPositiveNumbers\obj\Debug\04.TwoPositiveNumbers.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\04.Console-Input-Output-Homework\04.TwoPositiveNumbers\obj\Debug\04.TwoPositiveNumbers.exe
+c:\users\marto\documents\visual studio 2013\Projects\04.Console-Input-Output-Homework\04.TwoPositiveNumbers\obj\Debug\04.TwoPositiveNumbers.pdb

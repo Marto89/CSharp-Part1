@@ -1,0 +1,8 @@
+c:\users\marto\documents\visual studio 2013\Projects\Introduction-to-Programming\8.PrintSquare\bin\Debug\8.PrintSquare.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Introduction-to-Programming\8.PrintSquare\bin\Debug\8.PrintSquare.exe
+c:\users\marto\documents\visual studio 2013\Projects\Introduction-to-Programming\8.PrintSquare\bin\Debug\8.PrintSquare.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Introduction-to-Programming\8.PrintSquare\obj\Debug\8.PrintSquare.exe
+c:\users\marto\documents\visual studio 2013\Projects\Introduction-to-Programming\8.PrintSquare\obj\Debug\8.PrintSquare.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\1.Introduction-to-Programming-Homework\8.PrintSquare\bin\Debug\8.PrintSquare.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\1.Introduction-to-Programming-Homework\8.PrintSquare\obj\Debug\8.PrintSquare.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\1.Introduction-to-Programming-Homework\8.PrintSquare\obj\Debug\8.PrintSquare.pdb

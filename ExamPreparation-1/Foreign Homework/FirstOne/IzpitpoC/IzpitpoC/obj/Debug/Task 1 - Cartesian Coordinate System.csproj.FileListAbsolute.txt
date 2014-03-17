@@ -1,0 +1,6 @@
+c:\users\dinko\documents\visual studio 2013\Projects\IzpitpoC\IzpitpoC\obj\Debug\Task 1 - Cartesian Coordinate System.csprojResolveAssemblyReference.cache
+c:\users\dinko\documents\visual studio 2013\Projects\IzpitpoC\IzpitpoC\bin\Debug\IzpitpoC.exe.config
+c:\users\dinko\documents\visual studio 2013\Projects\IzpitpoC\IzpitpoC\bin\Debug\IzpitpoC.exe
+c:\users\dinko\documents\visual studio 2013\Projects\IzpitpoC\IzpitpoC\bin\Debug\IzpitpoC.pdb
+c:\users\dinko\documents\visual studio 2013\Projects\IzpitpoC\IzpitpoC\obj\Debug\IzpitpoC.exe
+c:\users\dinko\documents\visual studio 2013\Projects\IzpitpoC\IzpitpoC\obj\Debug\IzpitpoC.pdb

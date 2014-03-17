@@ -1,0 +1,3 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\33.Sheets\bin\Debug\33.Sheets.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\33.Sheets\obj\Debug\33.Sheets.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\33.Sheets\obj\Debug\33.Sheets.pdb

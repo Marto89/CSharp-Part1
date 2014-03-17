@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\03.Operators-and-Expressions-Homework\04.ThirdDigit\bin\Debug\04.ThirdDigit.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\03.Operators-and-Expressions-Homework\04.ThirdDigit\bin\Debug\04.ThirdDigit.exe
+c:\users\marto\documents\visual studio 2013\Projects\03.Operators-and-Expressions-Homework\04.ThirdDigit\bin\Debug\04.ThirdDigit.pdb
+c:\users\marto\documents\visual studio 2013\Projects\03.Operators-and-Expressions-Homework\04.ThirdDigit\obj\Debug\04.ThirdDigit.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\03.Operators-and-Expressions-Homework\04.ThirdDigit\obj\Debug\04.ThirdDigit.exe
+c:\users\marto\documents\visual studio 2013\Projects\03.Operators-and-Expressions-Homework\04.ThirdDigit\obj\Debug\04.ThirdDigit.pdb

@@ -1,0 +1,3 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\09.Fire\bin\Debug\09.Fire.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\09.Fire\obj\Debug\09.Fire.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\09.Fire\obj\Debug\09.Fire.pdb

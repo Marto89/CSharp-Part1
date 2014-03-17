@@ -1,0 +1,9 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\6.MyGender\bin\Debug\6.MyGender.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\6.MyGender\bin\Debug\6.MyGender.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\6.MyGender\bin\Debug\6.MyGender.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\6.MyGender\obj\Debug\6.MyGender.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\6.MyGender\obj\Debug\6.MyGender.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\6.MyGender\obj\Debug\6.MyGender.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2.Primitive-Data-Types-and-Variables-Homework\6.MyGender\bin\Debug\6.MyGender.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2.Primitive-Data-Types-and-Variables-Homework\6.MyGender\obj\Debug\6.MyGender.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2.Primitive-Data-Types-and-Variables-Homework\6.MyGender\obj\Debug\6.MyGender.pdb

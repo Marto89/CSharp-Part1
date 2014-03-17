@@ -1,0 +1,9 @@
+c:\users\penev\documents\visual studio 2012\Projects\Intro-Programming-Homework\1. Hello CSharp\bin\Debug\_1.Hello_CSharp.exe.config
+c:\users\penev\documents\visual studio 2012\Projects\Intro-Programming-Homework\1. Hello CSharp\obj\Debug\_1.Hello_CSharp.exe
+c:\users\penev\documents\visual studio 2012\Projects\Intro-Programming-Homework\1. Hello CSharp\obj\Debug\_1.Hello_CSharp.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\01.Introduction-to-Programming-Homework\Foreign Homework\1. Hello CSharp\bin\Debug\_1.Hello_CSharp.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\01.Introduction-to-Programming-Homework\Foreign Homework\1. Hello CSharp\obj\Debug\_1.Hello_CSharp.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\01.Introduction-to-Programming-Homework\Foreign Homework\1. Hello CSharp\obj\Debug\_1.Hello_CSharp.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\01.Introduction-to-Programming-Homework\Foreign Homework\1. Hello CSharp\bin\Debug\_1.Hello_CSharp.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\01.Introduction-to-Programming-Homework\Foreign Homework\1. Hello CSharp\bin\Debug\_1.Hello_CSharp.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\01.Introduction-to-Programming-Homework\Foreign Homework\1. Hello CSharp\obj\Debug\2. Hello CSharp.csprojResolveAssemblyReference.cache

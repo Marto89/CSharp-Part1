@@ -1,0 +1,6 @@
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Task 5 - Subset Sums\bin\Debug\Task 5 - Subset Sums.exe.config
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Task 5 - Subset Sums\obj\Debug\Task 5 - Subset Sums.csprojResolveAssemblyReference.cache
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Task 5 - Subset Sums\bin\Debug\Task 5 - Subset Sums.exe
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Task 5 - Subset Sums\bin\Debug\Task 5 - Subset Sums.pdb
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Task 5 - Subset Sums\obj\Debug\Task 5 - Subset Sums.exe
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Task 5 - Subset Sums\obj\Debug\Task 5 - Subset Sums.pdb

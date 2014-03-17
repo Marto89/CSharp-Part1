@@ -1,0 +1,3 @@
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\Problemi 3 – Fir Tree\bin\Debug\Problemi 3 – Fir Tree.exe.config
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\Problemi 3 – Fir Tree\obj\Debug\Problemi 3 – Fir Tree.exe
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\Problemi 3 – Fir Tree\obj\Debug\Problemi 3 – Fir Tree.pdb

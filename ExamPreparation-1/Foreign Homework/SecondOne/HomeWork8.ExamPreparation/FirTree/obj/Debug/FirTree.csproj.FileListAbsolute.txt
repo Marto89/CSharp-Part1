@@ -1,0 +1,5 @@
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\FirTree\bin\Debug\FirTree.exe.config
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\FirTree\bin\Debug\FirTree.exe
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\FirTree\bin\Debug\FirTree.pdb
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\FirTree\obj\Debug\FirTree.exe
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\FirTree\obj\Debug\FirTree.pdb

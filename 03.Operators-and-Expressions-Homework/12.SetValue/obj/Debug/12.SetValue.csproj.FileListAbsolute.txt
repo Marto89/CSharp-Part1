@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\03.Operators-and-Expressions-Homework\12.SetValue\bin\Debug\12.SetValue.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\03.Operators-and-Expressions-Homework\12.SetValue\bin\Debug\12.SetValue.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\03.Operators-and-Expressions-Homework\12.SetValue\bin\Debug\12.SetValue.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\03.Operators-and-Expressions-Homework\12.SetValue\obj\Debug\12.SetValue.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\03.Operators-and-Expressions-Homework\12.SetValue\obj\Debug\12.SetValue.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\03.Operators-and-Expressions-Homework\12.SetValue\obj\Debug\12.SetValue.pdb

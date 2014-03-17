@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\07.FibonacciSequenceSum\bin\Debug\07.FibonacciSequenceSum.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\07.FibonacciSequenceSum\bin\Debug\07.FibonacciSequenceSum.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\07.FibonacciSequenceSum\bin\Debug\07.FibonacciSequenceSum.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\07.FibonacciSequenceSum\obj\Debug\07.FibonacciSequenceSum.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\07.FibonacciSequenceSum\obj\Debug\07.FibonacciSequenceSum.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\07.FibonacciSequenceSum\obj\Debug\07.FibonacciSequenceSum.pdb

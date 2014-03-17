@@ -1,0 +1,8 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\11.ExchangeInteger\bin\Debug\11.ExchangeInteger.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\11.ExchangeInteger\bin\Debug\11.ExchangeInteger.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\11.ExchangeInteger\bin\Debug\11.ExchangeInteger.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\11.ExchangeInteger\obj\Debug\11.ExchangeInteger.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\11.ExchangeInteger\obj\Debug\11.ExchangeInteger.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2.Primitive-Data-Types-and-Variables-Homework\11.ExchangeInteger\bin\Debug\11.ExchangeInteger.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2.Primitive-Data-Types-and-Variables-Homework\11.ExchangeInteger\obj\Debug\11.ExchangeInteger.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2.Primitive-Data-Types-and-Variables-Homework\11.ExchangeInteger\obj\Debug\11.ExchangeInteger.pdb

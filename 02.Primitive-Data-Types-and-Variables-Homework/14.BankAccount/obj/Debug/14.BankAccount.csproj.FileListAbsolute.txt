@@ -1,0 +1,12 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\14.BankAccount\bin\Debug\14.BankAccount.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\14.BankAccount\bin\Debug\14.BankAccount.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\14.BankAccount\bin\Debug\14.BankAccount.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\14.BankAccount\obj\Debug\14.BankAccount.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\14.BankAccount\obj\Debug\14.BankAccount.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\14.BankAccount\obj\Debug\14.BankAccount.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2.Primitive-Data-Types-and-Variables-Homework\14.BankAccount\bin\Debug\14.BankAccount.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2.Primitive-Data-Types-and-Variables-Homework\14.BankAccount\obj\Debug\14.BankAccount.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2.Primitive-Data-Types-and-Variables-Homework\14.BankAccount\obj\Debug\14.BankAccount.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2.Primitive-Data-Types-and-Variables-Homework\14.BankAccount\bin\Debug\14.BankAccount.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2.Primitive-Data-Types-and-Variables-Homework\14.BankAccount\bin\Debug\14.BankAccount.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2.Primitive-Data-Types-and-Variables-Homework\14.BankAccount\obj\Debug\14.BankAccount.csprojResolveAssemblyReference.cache

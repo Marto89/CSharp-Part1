@@ -1,0 +1,9 @@
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\DrunkenNumbers\bin\Debug\DrunkenNumbers.exe.config
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\DrunkenNumbers\bin\Debug\DrunkenNumbers.exe
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\DrunkenNumbers\bin\Debug\DrunkenNumbers.pdb
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\DrunkenNumbers\obj\Debug\DrunkenNumbers.exe
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\DrunkenNumbers\obj\Debug\DrunkenNumbers.pdb
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\DrunkenNumbers\obj\Debug\DrunkenNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ExamPreparation\Foreign Homework\SecondOne\HomeWork8.ExamPreparation\DrunkenNumbers\bin\Debug\DrunkenNumbers.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ExamPreparation\Foreign Homework\SecondOne\HomeWork8.ExamPreparation\DrunkenNumbers\obj\Debug\DrunkenNumbers.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ExamPreparation\Foreign Homework\SecondOne\HomeWork8.ExamPreparation\DrunkenNumbers\obj\Debug\DrunkenNumbers.pdb

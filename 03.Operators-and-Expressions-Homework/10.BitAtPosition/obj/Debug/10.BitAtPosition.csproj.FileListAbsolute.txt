@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\03.Operators-and-Expressions-Homework\10.BitAtPosition\bin\Debug\10.BitAtPosition.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\03.Operators-and-Expressions-Homework\10.BitAtPosition\bin\Debug\10.BitAtPosition.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\03.Operators-and-Expressions-Homework\10.BitAtPosition\bin\Debug\10.BitAtPosition.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\03.Operators-and-Expressions-Homework\10.BitAtPosition\obj\Debug\10.BitAtPosition.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\03.Operators-and-Expressions-Homework\10.BitAtPosition\obj\Debug\10.BitAtPosition.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\03.Operators-and-Expressions-Homework\10.BitAtPosition\obj\Debug\10.BitAtPosition.pdb

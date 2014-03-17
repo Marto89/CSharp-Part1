@@ -1,0 +1,1 @@
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Task 4 - Binary Digits Count\bin\Debug\Task 4 - Binary Digits Count.exe.config

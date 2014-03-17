@@ -1,0 +1,3 @@
+C:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\I4. Telerik Logo\bin\Debug\I4.Telerik_Logo.exe.config
+C:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\I4. Telerik Logo\obj\Debug\I4.Telerik_Logo.exe
+C:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\I4. Telerik Logo\obj\Debug\I4.Telerik_Logo.pdb

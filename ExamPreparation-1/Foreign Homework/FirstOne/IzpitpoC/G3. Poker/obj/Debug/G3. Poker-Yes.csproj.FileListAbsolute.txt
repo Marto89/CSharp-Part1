@@ -1,0 +1,3 @@
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\G3. Poker\bin\Debug\G3.Poker.exe.config
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\G3. Poker\obj\Debug\G3.Poker.exe
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\G3. Poker\obj\Debug\G3.Poker.pdb

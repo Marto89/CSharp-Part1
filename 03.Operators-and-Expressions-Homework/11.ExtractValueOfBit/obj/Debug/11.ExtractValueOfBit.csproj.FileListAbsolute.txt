@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\03.Operators-and-Expressions-Homework\11.ExtractValueOfBit\bin\Debug\11.ExtractValueOfBit.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\03.Operators-and-Expressions-Homework\11.ExtractValueOfBit\bin\Debug\11.ExtractValueOfBit.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\03.Operators-and-Expressions-Homework\11.ExtractValueOfBit\bin\Debug\11.ExtractValueOfBit.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\03.Operators-and-Expressions-Homework\11.ExtractValueOfBit\obj\Debug\11.ExtractValueOfBit.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\03.Operators-and-Expressions-Homework\11.ExtractValueOfBit\obj\Debug\11.ExtractValueOfBit.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\03.Operators-and-Expressions-Homework\11.ExtractValueOfBit\obj\Debug\11.ExtractValueOfBit.pdb

@@ -1,0 +1,3 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\24.FirTree\bin\Debug\24.FirTree.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\24.FirTree\obj\Debug\24.FirTree.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\24.FirTree\obj\Debug\24.FirTree.pdb

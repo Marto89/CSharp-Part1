@@ -1,0 +1,6 @@
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\Problemi 2 – Tribonacci\bin\Debug\Problemi 2 – Tribonacci.exe.config
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\Problemi 2 – Tribonacci\obj\Debug\Problemi 2 – Tribonacci.exe
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\Problemi 2 – Tribonacci\obj\Debug\Problemi 2 – Tribonacci.pdb
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\Problemi 2 – Tribonacci\bin\Debug\Problemi 2 – Tribonacci.exe
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\Problemi 2 – Tribonacci\bin\Debug\Problemi 2 – Tribonacci.pdb
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\Problemi 2 – Tribonacci\obj\Debug\B.Problemi 2 – Tribonacci.csprojResolveAssemblyReference.cache

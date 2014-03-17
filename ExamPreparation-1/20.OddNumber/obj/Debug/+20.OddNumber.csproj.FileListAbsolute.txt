@@ -1,0 +1,3 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\20.OddNumber\bin\Debug\20.OddNumber.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\20.OddNumber\obj\Debug\20.OddNumber.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\20.OddNumber\obj\Debug\20.OddNumber.pdb

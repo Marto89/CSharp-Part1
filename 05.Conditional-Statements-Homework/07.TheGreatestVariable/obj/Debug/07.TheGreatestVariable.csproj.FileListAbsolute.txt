@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\05.Conditional-Statements-Homework\07.TheGreatestVariable\bin\Debug\07.TheGreatestVariable.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\05.Conditional-Statements-Homework\07.TheGreatestVariable\bin\Debug\07.TheGreatestVariable.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\05.Conditional-Statements-Homework\07.TheGreatestVariable\bin\Debug\07.TheGreatestVariable.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\05.Conditional-Statements-Homework\07.TheGreatestVariable\obj\Debug\07.TheGreatestVariable.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\05.Conditional-Statements-Homework\07.TheGreatestVariable\obj\Debug\07.TheGreatestVariable.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\05.Conditional-Statements-Homework\07.TheGreatestVariable\obj\Debug\07.TheGreatestVariable.csprojResolveAssemblyReference.cache

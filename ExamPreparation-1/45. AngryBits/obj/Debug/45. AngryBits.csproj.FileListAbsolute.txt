@@ -1,0 +1,5 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\45. AngryBits\bin\Debug\_45.AngryBits.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\45. AngryBits\bin\Debug\_45.AngryBits.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\45. AngryBits\bin\Debug\_45.AngryBits.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\45. AngryBits\obj\Debug\_45.AngryBits.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\45. AngryBits\obj\Debug\_45.AngryBits.pdb

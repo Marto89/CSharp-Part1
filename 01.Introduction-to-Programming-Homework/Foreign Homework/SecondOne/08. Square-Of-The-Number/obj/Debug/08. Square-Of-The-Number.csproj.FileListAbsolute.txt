@@ -1,0 +1,12 @@
+D:\C#\Homework\01.Introduction-To-Programming-Homework\08. Square-Of-The-Number\bin\Debug\_08.Square_Of_The_Number.exe.config
+D:\C#\Homework\01.Introduction-To-Programming-Homework\08. Square-Of-The-Number\bin\Debug\_08.Square_Of_The_Number.exe
+D:\C#\Homework\01.Introduction-To-Programming-Homework\08. Square-Of-The-Number\bin\Debug\_08.Square_Of_The_Number.pdb
+D:\C#\Homework\01.Introduction-To-Programming-Homework\08. Square-Of-The-Number\obj\Debug\08. Square-Of-The-Number.csprojResolveAssemblyReference.cache
+D:\C#\Homework\01.Introduction-To-Programming-Homework\08. Square-Of-The-Number\obj\Debug\_08.Square_Of_The_Number.exe
+D:\C#\Homework\01.Introduction-To-Programming-Homework\08. Square-Of-The-Number\obj\Debug\_08.Square_Of_The_Number.pdb
+D:\Bo\C#\Homework\01.Introduction-To-Programming-Homework\08. Square-Of-The-Number\bin\Debug\_08.Square_Of_The_Number.exe.config
+D:\Bo\C#\Homework\01.Introduction-To-Programming-Homework\08. Square-Of-The-Number\obj\Debug\_08.Square_Of_The_Number.exe
+D:\Bo\C#\Homework\01.Introduction-To-Programming-Homework\08. Square-Of-The-Number\obj\Debug\_08.Square_Of_The_Number.pdb
+D:\Bo\C#\Homework\01.Introduction-To-Programming-Homework\08. Square-Of-The-Number\bin\Debug\_08.Square_Of_The_Number.exe
+D:\Bo\C#\Homework\01.Introduction-To-Programming-Homework\08. Square-Of-The-Number\bin\Debug\_08.Square_Of_The_Number.pdb
+D:\Bo\C#\Homework\01.Introduction-To-Programming-Homework\08. Square-Of-The-Number\obj\Debug\08. Square-Of-The-Number.csprojResolveAssemblyReference.cache

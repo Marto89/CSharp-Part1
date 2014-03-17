@@ -1,0 +1,6 @@
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\3. Bulls and Cows\bin\Debug\_3.Bulls_and_Cows.exe.config
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\3. Bulls and Cows\bin\Debug\_3.Bulls_and_Cows.exe
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\3. Bulls and Cows\bin\Debug\_3.Bulls_and_Cows.pdb
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\3. Bulls and Cows\obj\Debug\3. Bulls and Cows.csprojResolveAssemblyReference.cache
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\3. Bulls and Cows\obj\Debug\_3.Bulls_and_Cows.exe
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\3. Bulls and Cows\obj\Debug\_3.Bulls_and_Cows.pdb

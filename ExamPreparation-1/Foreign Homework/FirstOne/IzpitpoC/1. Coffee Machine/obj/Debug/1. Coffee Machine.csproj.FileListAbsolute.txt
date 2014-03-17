@@ -1,0 +1,6 @@
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\1. Coffee Machine\bin\Debug\_1.Coffee_Machine.exe.config
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\1. Coffee Machine\bin\Debug\_1.Coffee_Machine.exe
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\1. Coffee Machine\bin\Debug\_1.Coffee_Machine.pdb
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\1. Coffee Machine\obj\Debug\_1.Coffee_Machine.exe
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\1. Coffee Machine\obj\Debug\_1.Coffee_Machine.pdb
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\1. Coffee Machine\obj\Debug\1. Coffee Machine.csprojResolveAssemblyReference.cache

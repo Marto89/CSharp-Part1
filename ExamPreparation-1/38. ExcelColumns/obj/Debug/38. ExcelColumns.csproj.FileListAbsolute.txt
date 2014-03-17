@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\38. ExcelColumns\bin\Debug\_38.ExcelColumns.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\38. ExcelColumns\bin\Debug\_38.ExcelColumns.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\38. ExcelColumns\bin\Debug\_38.ExcelColumns.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\38. ExcelColumns\obj\Debug\_38.ExcelColumns.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\38. ExcelColumns\obj\Debug\_38.ExcelColumns.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\38. ExcelColumns\obj\Debug\38. ExcelColumns.csprojResolveAssemblyReference.cache

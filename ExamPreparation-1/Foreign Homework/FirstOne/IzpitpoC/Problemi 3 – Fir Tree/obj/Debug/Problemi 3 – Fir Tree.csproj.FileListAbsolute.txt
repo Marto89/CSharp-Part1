@@ -1,0 +1,6 @@
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Problemi 3 – Fir Tree\bin\Debug\Problemi 3 – Fir Tree.exe.config
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Problemi 3 – Fir Tree\bin\Debug\Problemi 3 – Fir Tree.exe
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Problemi 3 – Fir Tree\bin\Debug\Problemi 3 – Fir Tree.pdb
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Problemi 3 – Fir Tree\obj\Debug\Problemi 3 – Fir Tree.exe
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Problemi 3 – Fir Tree\obj\Debug\Problemi 3 – Fir Tree.pdb
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\Problemi 3 – Fir Tree\obj\Debug\Problemi 3 – Fir Tree.csprojResolveAssemblyReference.cache

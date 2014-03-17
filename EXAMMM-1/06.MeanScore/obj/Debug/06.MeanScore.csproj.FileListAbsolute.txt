@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\EXAMMM\06.MeanScore\bin\Debug\06.MeanScore.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\EXAMMM\06.MeanScore\bin\Debug\06.MeanScore.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\EXAMMM\06.MeanScore\bin\Debug\06.MeanScore.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\EXAMMM\06.MeanScore\obj\Debug\06.MeanScore.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\EXAMMM\06.MeanScore\obj\Debug\06.MeanScore.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\EXAMMM\06.MeanScore\obj\Debug\06.MeanScore.pdb

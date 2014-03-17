@@ -1,0 +1,9 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\5.CharUnicode\bin\Debug\5.CharUnicode.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\5.CharUnicode\obj\Debug\5.CharUnicode.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\5.CharUnicode\bin\Debug\5.CharUnicode.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\5.CharUnicode\bin\Debug\5.CharUnicode.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\5.CharUnicode\obj\Debug\5.CharUnicode.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\5.CharUnicode\obj\Debug\5.CharUnicode.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2.Primitive-Data-Types-and-Variables-Homework\5.CharUnicode\bin\Debug\5.CharUnicode.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2.Primitive-Data-Types-and-Variables-Homework\5.CharUnicode\obj\Debug\5.CharUnicode.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2.Primitive-Data-Types-and-Variables-Homework\5.CharUnicode\obj\Debug\5.CharUnicode.pdb

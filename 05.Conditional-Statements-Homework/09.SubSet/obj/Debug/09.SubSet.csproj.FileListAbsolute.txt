@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\05.Conditional-Statements-Homework\09.SubSet\bin\Debug\09.SubSet.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\05.Conditional-Statements-Homework\09.SubSet\obj\Debug\09.SubSet.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\05.Conditional-Statements-Homework\09.SubSet\bin\Debug\09.SubSet.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\05.Conditional-Statements-Homework\09.SubSet\bin\Debug\09.SubSet.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\05.Conditional-Statements-Homework\09.SubSet\obj\Debug\09.SubSet.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\05.Conditional-Statements-Homework\09.SubSet\obj\Debug\09.SubSet.pdb

@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\03.MinMaxValue\bin\Debug\03.MinMaxValue.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\03.MinMaxValue\bin\Debug\03.MinMaxValue.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\03.MinMaxValue\bin\Debug\03.MinMaxValue.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\03.MinMaxValue\obj\Debug\03.MinMaxValue.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\03.MinMaxValue\obj\Debug\03.MinMaxValue.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\03.MinMaxValue\obj\Debug\03.MinMaxValue.pdb

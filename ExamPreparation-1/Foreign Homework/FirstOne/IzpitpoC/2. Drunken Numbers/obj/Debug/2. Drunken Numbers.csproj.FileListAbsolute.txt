@@ -1,0 +1,6 @@
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\2. Drunken Numbers\bin\Debug\_2.Drunken_Numbers.exe.config
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\2. Drunken Numbers\bin\Debug\_2.Drunken_Numbers.exe
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\2. Drunken Numbers\bin\Debug\_2.Drunken_Numbers.pdb
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\2. Drunken Numbers\obj\Debug\2. Drunken Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\2. Drunken Numbers\obj\Debug\_2.Drunken_Numbers.exe
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\2. Drunken Numbers\obj\Debug\_2.Drunken_Numbers.pdb

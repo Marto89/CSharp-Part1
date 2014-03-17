@@ -1,0 +1,5 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\30.Lines\bin\Debug\30.Lines.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\30.Lines\bin\Debug\30.Lines.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\30.Lines\bin\Debug\30.Lines.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\30.Lines\obj\Debug\30.Lines.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\30.Lines\obj\Debug\30.Lines.pdb

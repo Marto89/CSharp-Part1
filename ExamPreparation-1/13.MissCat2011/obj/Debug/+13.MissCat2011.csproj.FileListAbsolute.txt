@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\13.MissCat2011\bin\Debug\13.MissCat2011.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\13.MissCat2011\bin\Debug\13.MissCat2011.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\13.MissCat2011\bin\Debug\13.MissCat2011.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\13.MissCat2011\obj\Debug\+13.MissCat2011.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\13.MissCat2011\obj\Debug\13.MissCat2011.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\13.MissCat2011\obj\Debug\13.MissCat2011.pdb

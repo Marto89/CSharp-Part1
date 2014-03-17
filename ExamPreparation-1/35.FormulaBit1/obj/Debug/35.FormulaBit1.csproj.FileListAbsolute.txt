@@ -1,0 +1,5 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\35.FormulaBit1\bin\Debug\35.FormulaBit1.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\35.FormulaBit1\bin\Debug\35.FormulaBit1.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\35.FormulaBit1\bin\Debug\35.FormulaBit1.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\35.FormulaBit1\obj\Debug\35.FormulaBit1.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\35.FormulaBit1\obj\Debug\35.FormulaBit1.pdb

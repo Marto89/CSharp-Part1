@@ -1,0 +1,6 @@
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\SandGlass\bin\Debug\SandGlass.exe.config
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\SandGlass\bin\Debug\SandGlass.exe
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\SandGlass\bin\Debug\SandGlass.pdb
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\SandGlass\obj\Debug\SandGlass.csprojResolveAssemblyReference.cache
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\SandGlass\obj\Debug\SandGlass.exe
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\SandGlass\obj\Debug\SandGlass.pdb

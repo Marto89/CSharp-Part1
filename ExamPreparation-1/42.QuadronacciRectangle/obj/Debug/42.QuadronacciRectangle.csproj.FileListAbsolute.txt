@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\42.QuadronacciRectangle\bin\Debug\42.QuadronacciRectangle.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\42.QuadronacciRectangle\bin\Debug\42.QuadronacciRectangle.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\42.QuadronacciRectangle\bin\Debug\42.QuadronacciRectangle.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\42.QuadronacciRectangle\obj\Debug\42.QuadronacciRectangle.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\42.QuadronacciRectangle\obj\Debug\42.QuadronacciRectangle.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\42.QuadronacciRectangle\obj\Debug\42.QuadronacciRectangle.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Mission1. Garden\bin\Debug\Mission1.Garden.exe.config
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Mission1. Garden\bin\Debug\Mission1.Garden.exe
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Mission1. Garden\bin\Debug\Mission1.Garden.pdb
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Mission1. Garden\obj\Debug\Mission1. Garden.csprojResolveAssemblyReference.cache
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Mission1. Garden\obj\Debug\Mission1.Garden.exe
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Mission1. Garden\obj\Debug\Mission1.Garden.pdb

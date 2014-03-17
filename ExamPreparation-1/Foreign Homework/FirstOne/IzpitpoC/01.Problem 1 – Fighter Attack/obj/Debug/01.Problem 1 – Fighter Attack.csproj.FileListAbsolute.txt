@@ -1,0 +1,9 @@
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\01.Problem 1 – Fighter Attack\bin\Debug\01.Problem 1 – Fighter Attack.exe.config
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\01.Problem 1 – Fighter Attack\obj\Debug\01.Problem 1 – Fighter Attack.csprojResolveAssemblyReference.cache
+C:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\01.Problem 1 – Fighter Attack\bin\Debug\01.Problem 1 – Fighter Attack.exe
+C:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\01.Problem 1 – Fighter Attack\bin\Debug\01.Problem 1 – Fighter Attack.pdb
+C:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\01.Problem 1 – Fighter Attack\obj\Debug\01.Problem 1 – Fighter Attack.exe
+C:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\01.Problem 1 – Fighter Attack\obj\Debug\01.Problem 1 – Fighter Attack.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ExamPreparation\Foreign Homework\FirstOne\IzpitpoC\01.Problem 1 – Fighter Attack\bin\Debug\01.Problem 1 – Fighter Attack.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ExamPreparation\Foreign Homework\FirstOne\IzpitpoC\01.Problem 1 – Fighter Attack\obj\Debug\01.Problem 1 – Fighter Attack.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ExamPreparation\Foreign Homework\FirstOne\IzpitpoC\01.Problem 1 – Fighter Attack\obj\Debug\01.Problem 1 – Fighter Attack.pdb

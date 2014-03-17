@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\03.Operators-and-Expressions-Homework\03.CalculatesRectangle’sArea\bin\Debug\03.CalculatesRectangle’sArea.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\03.Operators-and-Expressions-Homework\03.CalculatesRectangle’sArea\bin\Debug\03.CalculatesRectangle’sArea.exe
+c:\users\marto\documents\visual studio 2013\Projects\03.Operators-and-Expressions-Homework\03.CalculatesRectangle’sArea\bin\Debug\03.CalculatesRectangle’sArea.pdb
+c:\users\marto\documents\visual studio 2013\Projects\03.Operators-and-Expressions-Homework\03.CalculatesRectangle’sArea\obj\Debug\03.CalculatesRectangle’sArea.exe
+c:\users\marto\documents\visual studio 2013\Projects\03.Operators-and-Expressions-Homework\03.CalculatesRectangle’sArea\obj\Debug\03.CalculatesRectangle’sArea.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\03.Operators-and-Expressions-Homework\03.CalculatesRectangle’sArea\obj\Debug\03.CalculatesRectangle’sArea.csprojResolveAssemblyReference.cache

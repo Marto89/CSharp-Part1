@@ -1,0 +1,8 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\13.NullVariable\bin\Debug\13.NullVariable.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\13.NullVariable\bin\Debug\13.NullVariable.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\13.NullVariable\bin\Debug\13.NullVariable.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\13.NullVariable\obj\Debug\13.NullVariable.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables-Homework\13.NullVariable\obj\Debug\13.NullVariable.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2.Primitive-Data-Types-and-Variables-Homework\13.NullVariable\bin\Debug\13.NullVariable.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2.Primitive-Data-Types-and-Variables-Homework\13.NullVariable\obj\Debug\13.NullVariable.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2.Primitive-Data-Types-and-Variables-Homework\13.NullVariable\obj\Debug\13.NullVariable.pdb

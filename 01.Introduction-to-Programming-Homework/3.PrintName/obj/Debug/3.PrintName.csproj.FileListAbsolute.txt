@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\1.Introduction-to-Programming-Homework\3.PrintName\bin\Debug\3.PrintName.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\1.Introduction-to-Programming-Homework\3.PrintName\bin\Debug\3.PrintName.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\1.Introduction-to-Programming-Homework\3.PrintName\bin\Debug\3.PrintName.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\1.Introduction-to-Programming-Homework\3.PrintName\obj\Debug\3.PrintName.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\1.Introduction-to-Programming-Homework\3.PrintName\obj\Debug\3.PrintName.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\1.Introduction-to-Programming-Homework\3.PrintName\obj\Debug\3.PrintName.pdb

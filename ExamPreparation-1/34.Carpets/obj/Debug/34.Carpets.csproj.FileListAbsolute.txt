@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\34.Carpets\bin\Debug\34.Carpets.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\34.Carpets\bin\Debug\34.Carpets.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\34.Carpets\bin\Debug\34.Carpets.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\34.Carpets\obj\Debug\34.Carpets.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\34.Carpets\obj\Debug\34.Carpets.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\34.Carpets\obj\Debug\34.Carpets.csprojResolveAssemblyReference.cache

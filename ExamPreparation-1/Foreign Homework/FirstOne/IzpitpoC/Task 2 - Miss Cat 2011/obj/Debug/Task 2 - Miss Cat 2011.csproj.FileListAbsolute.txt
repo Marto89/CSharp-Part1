@@ -1,0 +1,6 @@
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Task 2 - Miss Cat 2011\bin\Debug\Task 2 - Miss Cat 2011.exe.config
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Task 2 - Miss Cat 2011\bin\Debug\Task 2 - Miss Cat 2011.exe
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Task 2 - Miss Cat 2011\bin\Debug\Task 2 - Miss Cat 2011.pdb
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Task 2 - Miss Cat 2011\obj\Debug\Task 2 - Miss Cat 2011.exe
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Task 2 - Miss Cat 2011\obj\Debug\Task 2 - Miss Cat 2011.pdb
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Task 2 - Miss Cat 2011\obj\Debug\Task 2 - Miss Cat 2011.csprojResolveAssemblyReference.cache

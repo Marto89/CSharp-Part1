@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\05.Conditional-Statements-Homework\02.ProductSign\bin\Debug\02.ProductSign.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\05.Conditional-Statements-Homework\02.ProductSign\bin\Debug\02.ProductSign.exe
+c:\users\marto\documents\visual studio 2013\Projects\05.Conditional-Statements-Homework\02.ProductSign\bin\Debug\02.ProductSign.pdb
+c:\users\marto\documents\visual studio 2013\Projects\05.Conditional-Statements-Homework\02.ProductSign\obj\Debug\02.ProductSign.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\05.Conditional-Statements-Homework\02.ProductSign\obj\Debug\02.ProductSign.exe
+c:\users\marto\documents\visual studio 2013\Projects\05.Conditional-Statements-Homework\02.ProductSign\obj\Debug\02.ProductSign.pdb

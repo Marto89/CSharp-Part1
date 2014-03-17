@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\11.Bittris\bin\Debug\11.Bittris.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\11.Bittris\bin\Debug\11.Bittris.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\11.Bittris\bin\Debug\11.Bittris.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\11.Bittris\obj\Debug\11.Bittris.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\11.Bittris\obj\Debug\11.Bittris.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\11.Bittris\obj\Debug\11.Bittris.pdb

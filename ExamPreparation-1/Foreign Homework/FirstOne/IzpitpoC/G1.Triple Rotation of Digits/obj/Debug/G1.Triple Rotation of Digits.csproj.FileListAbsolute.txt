@@ -1,0 +1,6 @@
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\G1.Triple Rotation of Digits\bin\Debug\G1.Triple Rotation of Digits.exe.config
+C:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\G1.Triple Rotation of Digits\obj\Debug\G1.Triple Rotation of Digits.csprojResolveAssemblyReference.cache
+C:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\G1.Triple Rotation of Digits\bin\Debug\G1.Triple Rotation of Digits.exe
+C:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\G1.Triple Rotation of Digits\bin\Debug\G1.Triple Rotation of Digits.pdb
+C:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\G1.Triple Rotation of Digits\obj\Debug\G1.Triple Rotation of Digits.exe
+C:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\G1.Triple Rotation of Digits\obj\Debug\G1.Triple Rotation of Digits.pdb

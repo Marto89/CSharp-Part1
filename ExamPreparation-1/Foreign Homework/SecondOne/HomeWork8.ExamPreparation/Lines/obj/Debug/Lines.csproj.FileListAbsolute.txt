@@ -1,0 +1,6 @@
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\Lines\bin\Debug\Lines.exe.config
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\Lines\obj\Debug\Lines.csprojResolveAssemblyReference.cache
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\Lines\bin\Debug\Lines.exe
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\Lines\bin\Debug\Lines.pdb
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\Lines\obj\Debug\Lines.exe
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\Lines\obj\Debug\Lines.pdb

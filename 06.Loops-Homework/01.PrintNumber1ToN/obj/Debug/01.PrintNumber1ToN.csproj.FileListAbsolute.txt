@@ -1,0 +1,12 @@
+c:\users\marto\documents\visual studio 2013\Projects\05.Loops-Homework\01.PrintNumber1ToN\bin\Debug\01.PrintNumber1ToN.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\05.Loops-Homework\01.PrintNumber1ToN\bin\Debug\01.PrintNumber1ToN.exe
+c:\users\marto\documents\visual studio 2013\Projects\05.Loops-Homework\01.PrintNumber1ToN\bin\Debug\01.PrintNumber1ToN.pdb
+c:\users\marto\documents\visual studio 2013\Projects\05.Loops-Homework\01.PrintNumber1ToN\obj\Debug\01.PrintNumber1ToN.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\05.Loops-Homework\01.PrintNumber1ToN\obj\Debug\01.PrintNumber1ToN.exe
+c:\users\marto\documents\visual studio 2013\Projects\05.Loops-Homework\01.PrintNumber1ToN\obj\Debug\01.PrintNumber1ToN.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\01.PrintNumber1ToN\bin\Debug\01.PrintNumber1ToN.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\01.PrintNumber1ToN\obj\Debug\01.PrintNumber1ToN.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\01.PrintNumber1ToN\obj\Debug\01.PrintNumber1ToN.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\01.PrintNumber1ToN\bin\Debug\01.PrintNumber1ToN.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\01.PrintNumber1ToN\bin\Debug\01.PrintNumber1ToN.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\01.PrintNumber1ToN\obj\Debug\01.PrintNumber1ToN.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\03.Operators-and-Expressions-Homework\13.ExchangeBits\bin\Debug\13.ExchangeBits.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\03.Operators-and-Expressions-Homework\13.ExchangeBits\bin\Debug\13.ExchangeBits.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\03.Operators-and-Expressions-Homework\13.ExchangeBits\bin\Debug\13.ExchangeBits.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\03.Operators-and-Expressions-Homework\13.ExchangeBits\obj\Debug\13.ExchangeBits.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\03.Operators-and-Expressions-Homework\13.ExchangeBits\obj\Debug\13.ExchangeBits.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\03.Operators-and-Expressions-Homework\13.ExchangeBits\obj\Debug\13.ExchangeBits.pdb

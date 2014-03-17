@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\03.Operators-and-Expressions-Homework\09.PointOutRectangleAndInCircle\bin\Debug\09.PointOutRectangleAndInCircle.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\03.Operators-and-Expressions-Homework\09.PointOutRectangleAndInCircle\obj\Debug\09.PointOutRectangleAndInCircle.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\03.Operators-and-Expressions-Homework\09.PointOutRectangleAndInCircle\bin\Debug\09.PointOutRectangleAndInCircle.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\03.Operators-and-Expressions-Homework\09.PointOutRectangleAndInCircle\bin\Debug\09.PointOutRectangleAndInCircle.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\03.Operators-and-Expressions-Homework\09.PointOutRectangleAndInCircle\obj\Debug\09.PointOutRectangleAndInCircle.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\03.Operators-and-Expressions-Homework\09.PointOutRectangleAndInCircle\obj\Debug\09.PointOutRectangleAndInCircle.pdb

@@ -1,0 +1,6 @@
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Problem 2 - Least Majority Multiple\bin\Debug\Problem 2 - Least Majority Multiple.exe.config
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Problem 2 - Least Majority Multiple\bin\Debug\Problem 2 - Least Majority Multiple.exe
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Problem 2 - Least Majority Multiple\bin\Debug\Problem 2 - Least Majority Multiple.pdb
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Problem 2 - Least Majority Multiple\obj\Debug\Problem 2 - Least Majority Multiple.exe
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Problem 2 - Least Majority Multiple\obj\Debug\Problem 2 - Least Majority Multiple.pdb
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Problem 2 - Least Majority Multiple\obj\Debug\Problem 2 - Least Majority Multiple.csprojResolveAssemblyReference.cache

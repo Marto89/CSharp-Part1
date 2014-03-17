@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\22.ShipDamage\bin\Debug\22.ShipDamage.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\22.ShipDamage\bin\Debug\22.ShipDamage.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\22.ShipDamage\bin\Debug\22.ShipDamage.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\22.ShipDamage\obj\Debug\+22.ShipDamage.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\22.ShipDamage\obj\Debug\22.ShipDamage.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\22.ShipDamage\obj\Debug\22.ShipDamage.pdb

@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\14.ForestRoad\bin\Debug\14.ForestRoad.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\14.ForestRoad\obj\Debug\14.ForestRoad.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\14.ForestRoad\obj\Debug\14.ForestRoad.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\14.ForestRoad\bin\Debug\14.ForestRoad.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\14.ForestRoad\bin\Debug\14.ForestRoad.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\14.ForestRoad\obj\Debug\+14.ForestRoad.csprojResolveAssemblyReference.cache

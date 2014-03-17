@@ -1,0 +1,8 @@
+c:\users\marto\documents\visual studio 2013\Projects\Introduction-to-Programming\4.Print1,101,1001\bin\Debug\4.Print1,101,1001.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Introduction-to-Programming\4.Print1,101,1001\bin\Debug\4.Print1,101,1001.exe
+c:\users\marto\documents\visual studio 2013\Projects\Introduction-to-Programming\4.Print1,101,1001\bin\Debug\4.Print1,101,1001.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Introduction-to-Programming\4.Print1,101,1001\obj\Debug\4.Print1,101,1001.exe
+c:\users\marto\documents\visual studio 2013\Projects\Introduction-to-Programming\4.Print1,101,1001\obj\Debug\4.Print1,101,1001.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\1.Introduction-to-Programming-Homework\4.Print1,101,1001\bin\Debug\4.Print1,101,1001.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\1.Introduction-to-Programming-Homework\4.Print1,101,1001\obj\Debug\4.Print1,101,1001.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\1.Introduction-to-Programming-Homework\4.Print1,101,1001\obj\Debug\4.Print1,101,1001.pdb

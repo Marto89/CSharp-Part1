@@ -1,0 +1,6 @@
+D:\Bo\C#\Homework\01.Introduction-To-Programming-Homework\06. YourFullName\bin\Debug\_06.YourFullName.exe.config
+D:\Bo\C#\Homework\01.Introduction-To-Programming-Homework\06. YourFullName\bin\Debug\_06.YourFullName.exe
+D:\Bo\C#\Homework\01.Introduction-To-Programming-Homework\06. YourFullName\bin\Debug\_06.YourFullName.pdb
+D:\Bo\C#\Homework\01.Introduction-To-Programming-Homework\06. YourFullName\obj\Debug\06. YourFullName.csprojResolveAssemblyReference.cache
+D:\Bo\C#\Homework\01.Introduction-To-Programming-Homework\06. YourFullName\obj\Debug\_06.YourFullName.exe
+D:\Bo\C#\Homework\01.Introduction-To-Programming-Homework\06. YourFullName\obj\Debug\_06.YourFullName.pdb

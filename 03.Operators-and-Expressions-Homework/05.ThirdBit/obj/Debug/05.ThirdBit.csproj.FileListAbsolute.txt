@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\03.Operators-and-Expressions-Homework\05.ThirdBit\bin\Debug\05.ThirdBit.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\03.Operators-and-Expressions-Homework\05.ThirdBit\bin\Debug\05.ThirdBit.exe
+c:\users\marto\documents\visual studio 2013\Projects\03.Operators-and-Expressions-Homework\05.ThirdBit\bin\Debug\05.ThirdBit.pdb
+c:\users\marto\documents\visual studio 2013\Projects\03.Operators-and-Expressions-Homework\05.ThirdBit\obj\Debug\05.ThirdBit.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\03.Operators-and-Expressions-Homework\05.ThirdBit\obj\Debug\05.ThirdBit.exe
+c:\users\marto\documents\visual studio 2013\Projects\03.Operators-and-Expressions-Homework\05.ThirdBit\obj\Debug\05.ThirdBit.pdb

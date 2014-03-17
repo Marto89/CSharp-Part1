@@ -1,0 +1,5 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\40.BitBall\bin\Debug\40.BitBall.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\40.BitBall\bin\Debug\40.BitBall.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\40.BitBall\bin\Debug\40.BitBall.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\40.BitBall\obj\Debug\40.BitBall.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\40.BitBall\obj\Debug\40.BitBall.pdb

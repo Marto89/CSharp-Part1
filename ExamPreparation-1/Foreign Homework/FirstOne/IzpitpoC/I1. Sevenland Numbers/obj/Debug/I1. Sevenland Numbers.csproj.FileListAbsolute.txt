@@ -1,0 +1,6 @@
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\I1. Sevenland Numbers\bin\Debug\I1.Sevenland_Numbers.exe.config
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\I1. Sevenland Numbers\bin\Debug\I1.Sevenland_Numbers.exe
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\I1. Sevenland Numbers\bin\Debug\I1.Sevenland_Numbers.pdb
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\I1. Sevenland Numbers\obj\Debug\I1. Sevenland Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\I1. Sevenland Numbers\obj\Debug\I1.Sevenland_Numbers.exe
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\I1. Sevenland Numbers\obj\Debug\I1.Sevenland_Numbers.pdb

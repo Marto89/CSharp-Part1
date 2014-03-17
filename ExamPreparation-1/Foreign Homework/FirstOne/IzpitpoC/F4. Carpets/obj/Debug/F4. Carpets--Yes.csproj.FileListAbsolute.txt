@@ -1,0 +1,6 @@
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\F4. Carpets\bin\Debug\F4.Carpets.exe.config
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\F4. Carpets\obj\Debug\F4.Carpets.exe
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\F4. Carpets\obj\Debug\F4.Carpets.pdb
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\F4. Carpets\bin\Debug\F4.Carpets.exe
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\F4. Carpets\bin\Debug\F4.Carpets.pdb
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\F4. Carpets\obj\Debug\F4. Carpets--Yes.csprojResolveAssemblyReference.cache

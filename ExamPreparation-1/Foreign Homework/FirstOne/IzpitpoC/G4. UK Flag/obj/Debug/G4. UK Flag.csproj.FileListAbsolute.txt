@@ -1,0 +1,6 @@
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\G4. UK Flag\bin\Debug\G4.UK_Flag.exe.config
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\G4. UK Flag\bin\Debug\G4.UK_Flag.exe
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\G4. UK Flag\bin\Debug\G4.UK_Flag.pdb
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\G4. UK Flag\obj\Debug\G4.UK_Flag.exe
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\G4. UK Flag\obj\Debug\G4.UK_Flag.pdb
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\G4. UK Flag\obj\Debug\G4. UK Flag.csprojResolveAssemblyReference.cache

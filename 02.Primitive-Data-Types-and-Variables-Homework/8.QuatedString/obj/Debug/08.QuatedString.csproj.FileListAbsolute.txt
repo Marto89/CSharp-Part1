@@ -1,0 +1,3 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2.Primitive-Data-Types-and-Variables-Homework\8.QuatedString\bin\Debug\8.QuatedString.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2.Primitive-Data-Types-and-Variables-Homework\8.QuatedString\obj\Debug\8.QuatedString.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\2.Primitive-Data-Types-and-Variables-Homework\8.QuatedString\obj\Debug\8.QuatedString.pdb

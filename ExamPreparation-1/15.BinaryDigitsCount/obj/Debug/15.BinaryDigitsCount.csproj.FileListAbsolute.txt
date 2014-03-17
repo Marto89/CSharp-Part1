@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\15.BinaryDigitsCount\bin\Debug\15.BinaryDigitsCount.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\15.BinaryDigitsCount\bin\Debug\15.BinaryDigitsCount.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\15.BinaryDigitsCount\bin\Debug\15.BinaryDigitsCount.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\15.BinaryDigitsCount\obj\Debug\15.BinaryDigitsCount.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\15.BinaryDigitsCount\obj\Debug\15.BinaryDigitsCount.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\15.BinaryDigitsCount\obj\Debug\15.BinaryDigitsCount.csprojResolveAssemblyReference.cache

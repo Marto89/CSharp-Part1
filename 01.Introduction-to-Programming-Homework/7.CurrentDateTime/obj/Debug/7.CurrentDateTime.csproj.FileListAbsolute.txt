@@ -1,0 +1,5 @@
+c:\users\marto\documents\visual studio 2013\Projects\Introduction-to-Programming\7.CurrentDateTime\bin\Debug\7.CurrentDateTime.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\Introduction-to-Programming\7.CurrentDateTime\bin\Debug\7.CurrentDateTime.exe
+c:\users\marto\documents\visual studio 2013\Projects\Introduction-to-Programming\7.CurrentDateTime\bin\Debug\7.CurrentDateTime.pdb
+c:\users\marto\documents\visual studio 2013\Projects\Introduction-to-Programming\7.CurrentDateTime\obj\Debug\7.CurrentDateTime.exe
+c:\users\marto\documents\visual studio 2013\Projects\Introduction-to-Programming\7.CurrentDateTime\obj\Debug\7.CurrentDateTime.pdb

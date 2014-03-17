@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\36.SevenlandNumbers\bin\Debug\36.SevenlandNumbers.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\36.SevenlandNumbers\bin\Debug\36.SevenlandNumbers.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\36.SevenlandNumbers\bin\Debug\36.SevenlandNumbers.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\36.SevenlandNumbers\obj\Debug\36.SevenlandNumbers.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\36.SevenlandNumbers\obj\Debug\36.SevenlandNumbers.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\36.SevenlandNumbers\obj\Debug\36.SevenlandNumbers.csprojResolveAssemblyReference.cache

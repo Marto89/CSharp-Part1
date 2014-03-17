@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\04.FactorialDivision\bin\Debug\04.FactorialDivision.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\04.FactorialDivision\bin\Debug\04.FactorialDivision.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\04.FactorialDivision\bin\Debug\04.FactorialDivision.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\04.FactorialDivision\obj\Debug\04.FactorialDivision.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\04.FactorialDivision\obj\Debug\04.FactorialDivision.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\04.FactorialDivision\obj\Debug\04.FactorialDivision.csprojResolveAssemblyReference.cache

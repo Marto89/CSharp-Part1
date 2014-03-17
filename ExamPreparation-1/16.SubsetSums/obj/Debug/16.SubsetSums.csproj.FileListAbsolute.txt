@@ -1,0 +1,5 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\16.SubsetSums\bin\Debug\16.SubsetSums.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\16.SubsetSums\bin\Debug\16.SubsetSums.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\16.SubsetSums\bin\Debug\16.SubsetSums.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\16.SubsetSums\obj\Debug\16.SubsetSums.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\16.SubsetSums\obj\Debug\16.SubsetSums.pdb

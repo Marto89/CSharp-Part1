@@ -1,0 +1,6 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\05.Conditional-Statements-Homework\10.BonusScores\bin\Debug\10.BonusScores.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\05.Conditional-Statements-Homework\10.BonusScores\bin\Debug\10.BonusScores.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\05.Conditional-Statements-Homework\10.BonusScores\bin\Debug\10.BonusScores.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\05.Conditional-Statements-Homework\10.BonusScores\obj\Debug\10.BonusScores.csprojResolveAssemblyReference.cache
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\05.Conditional-Statements-Homework\10.BonusScores\obj\Debug\10.BonusScores.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\05.Conditional-Statements-Homework\10.BonusScores\obj\Debug\10.BonusScores.pdb

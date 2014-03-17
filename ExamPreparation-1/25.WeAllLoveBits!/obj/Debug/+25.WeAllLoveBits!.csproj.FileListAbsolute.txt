@@ -1,0 +1,3 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\25.WeAllLoveBits!\bin\Debug\25.WeAllLoveBits!.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\25.WeAllLoveBits!\obj\Debug\25.WeAllLoveBits!.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\25.WeAllLoveBits!\obj\Debug\25.WeAllLoveBits!.pdb

@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\04.Console-Input-Output-Homework\05.GreaterNumber\bin\Debug\05.GreaterNumber.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\04.Console-Input-Output-Homework\05.GreaterNumber\bin\Debug\05.GreaterNumber.exe
+c:\users\marto\documents\visual studio 2013\Projects\04.Console-Input-Output-Homework\05.GreaterNumber\bin\Debug\05.GreaterNumber.pdb
+c:\users\marto\documents\visual studio 2013\Projects\04.Console-Input-Output-Homework\05.GreaterNumber\obj\Debug\05.GreaterNumber.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\04.Console-Input-Output-Homework\05.GreaterNumber\obj\Debug\05.GreaterNumber.exe
+c:\users\marto\documents\visual studio 2013\Projects\04.Console-Input-Output-Homework\05.GreaterNumber\obj\Debug\05.GreaterNumber.pdb

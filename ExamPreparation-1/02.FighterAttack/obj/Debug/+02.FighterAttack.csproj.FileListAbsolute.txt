@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\02.FighterAttack\bin\Debug\02.FighterAttack.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\02.FighterAttack\obj\Debug\02.FighterAttack.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\02.FighterAttack\obj\Debug\02.FighterAttack.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\02.FighterAttack\bin\Debug\02.FighterAttack.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\02.FighterAttack\bin\Debug\02.FighterAttack.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\02.FighterAttack\obj\Debug\+02.FighterAttack.csprojResolveAssemblyReference.cache

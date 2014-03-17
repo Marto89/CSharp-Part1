@@ -1,0 +1,6 @@
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\FighterAttack\bin\Debug\FighterAttack.exe.config
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\FighterAttack\bin\Debug\FighterAttack.exe
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\FighterAttack\bin\Debug\FighterAttack.pdb
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\FighterAttack\obj\Debug\FighterAttack.csprojResolveAssemblyReference.cache
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\FighterAttack\obj\Debug\FighterAttack.exe
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\FighterAttack\obj\Debug\FighterAttack.pdb

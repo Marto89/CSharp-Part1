@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\EXAMMM\04.X–Expression\bin\Debug\04.X–Expression.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\EXAMMM\04.X–Expression\obj\Debug\04.X–Expression.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\EXAMMM\04.X–Expression\bin\Debug\04.X–Expression.exe
+c:\users\marto\documents\visual studio 2013\Projects\EXAMMM\04.X–Expression\bin\Debug\04.X–Expression.pdb
+c:\users\marto\documents\visual studio 2013\Projects\EXAMMM\04.X–Expression\obj\Debug\04.X–Expression.exe
+c:\users\marto\documents\visual studio 2013\Projects\EXAMMM\04.X–Expression\obj\Debug\04.X–Expression.pdb

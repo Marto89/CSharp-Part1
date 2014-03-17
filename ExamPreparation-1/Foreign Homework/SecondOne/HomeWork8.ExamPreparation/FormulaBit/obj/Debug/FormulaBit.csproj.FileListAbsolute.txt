@@ -1,0 +1,6 @@
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\FormulaBit\bin\Debug\FormulaBit.exe.config
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\FormulaBit\bin\Debug\FormulaBit.exe
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\FormulaBit\bin\Debug\FormulaBit.pdb
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\FormulaBit\obj\Debug\FormulaBit.csprojResolveAssemblyReference.cache
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\FormulaBit\obj\Debug\FormulaBit.exe
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\FormulaBit\obj\Debug\FormulaBit.pdb

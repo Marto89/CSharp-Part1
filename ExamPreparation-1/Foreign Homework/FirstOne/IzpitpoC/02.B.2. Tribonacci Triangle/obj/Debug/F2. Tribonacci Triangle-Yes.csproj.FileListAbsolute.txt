@@ -1,0 +1,5 @@
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\02.B.2. Tribonacci Triangle\bin\Debug\_02.B._2.Tribonacci_Triangle.exe.config
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\02.B.2. Tribonacci Triangle\obj\Debug\_02.B._2.Tribonacci_Triangle.exe
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\02.B.2. Tribonacci Triangle\obj\Debug\_02.B._2.Tribonacci_Triangle.pdb
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\02.B.2. Tribonacci Triangle\bin\Debug\_02.B._2.Tribonacci_Triangle.exe
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\02.B.2. Tribonacci Triangle\bin\Debug\_02.B._2.Tribonacci_Triangle.pdb

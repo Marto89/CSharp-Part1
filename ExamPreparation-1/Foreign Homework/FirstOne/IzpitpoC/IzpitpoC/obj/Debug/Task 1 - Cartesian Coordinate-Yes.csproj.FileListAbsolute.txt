@@ -1,0 +1,6 @@
+c:\users\dinko\documents\visual studio 2013\Projects\IzpitpoC\IzpitpoC\bin\Debug\IzpitpoC.exe.config
+c:\users\dinko\documents\visual studio 2013\Projects\IzpitpoC\IzpitpoC\obj\Debug\IzpitpoC.exe
+c:\users\dinko\documents\visual studio 2013\Projects\IzpitpoC\IzpitpoC\obj\Debug\IzpitpoC.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ExamPreparation\Foreign Homework\FirstOne\IzpitpoC\IzpitpoC\bin\Debug\IzpitpoC.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ExamPreparation\Foreign Homework\FirstOne\IzpitpoC\IzpitpoC\obj\Debug\IzpitpoC.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ExamPreparation\Foreign Homework\FirstOne\IzpitpoC\IzpitpoC\obj\Debug\IzpitpoC.pdb

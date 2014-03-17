@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\05.DrunkenNumbers\bin\Debug\05.DrunkenNumbers.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\05.DrunkenNumbers\obj\Debug\05.DrunkenNumbers.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\05.DrunkenNumbers\obj\Debug\05.DrunkenNumbers.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\05.DrunkenNumbers\bin\Debug\05.DrunkenNumbers.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\05.DrunkenNumbers\bin\Debug\05.DrunkenNumbers.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\05.DrunkenNumbers\obj\Debug\+05.DrunkenNumbers.csprojResolveAssemblyReference.cache

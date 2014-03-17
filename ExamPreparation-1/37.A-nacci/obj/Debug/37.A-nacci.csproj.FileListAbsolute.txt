@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\37.A-nacci\bin\Debug\37.A-nacci.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\37.A-nacci\bin\Debug\37.A-nacci.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\37.A-nacci\bin\Debug\37.A-nacci.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\37.A-nacci\obj\Debug\37.A-nacci.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\37.A-nacci\obj\Debug\37.A-nacci.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\37.A-nacci\obj\Debug\37.A-nacci.csprojResolveAssemblyReference.cache

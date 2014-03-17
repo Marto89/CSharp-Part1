@@ -1,0 +1,3 @@
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\Problem 4 - Odd Number\bin\Debug\Problem 4 - Odd Number.exe.config
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\Problem 4 - Odd Number\obj\Debug\Problem 4 - Odd Number.exe
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\Problem 4 - Odd Number\obj\Debug\Problem 4 - Odd Number.pdb

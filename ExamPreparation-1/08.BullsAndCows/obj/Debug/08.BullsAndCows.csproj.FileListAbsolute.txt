@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\08.BullsAndCows\bin\Debug\08.BullsAndCows.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\08.BullsAndCows\obj\Debug\08.BullsAndCows.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\08.BullsAndCows\bin\Debug\08.BullsAndCows.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\08.BullsAndCows\bin\Debug\08.BullsAndCows.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\08.BullsAndCows\obj\Debug\08.BullsAndCows.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\08.BullsAndCows\obj\Debug\08.BullsAndCows.pdb

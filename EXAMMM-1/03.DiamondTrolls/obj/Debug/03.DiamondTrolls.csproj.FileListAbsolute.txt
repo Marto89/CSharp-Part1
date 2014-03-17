@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\EXAMMM\03.DiamondTrolls\bin\Debug\03.DiamondTrolls.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\EXAMMM\03.DiamondTrolls\bin\Debug\03.DiamondTrolls.exe
+c:\users\marto\documents\visual studio 2013\Projects\EXAMMM\03.DiamondTrolls\bin\Debug\03.DiamondTrolls.pdb
+c:\users\marto\documents\visual studio 2013\Projects\EXAMMM\03.DiamondTrolls\obj\Debug\03.DiamondTrolls.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\EXAMMM\03.DiamondTrolls\obj\Debug\03.DiamondTrolls.exe
+c:\users\marto\documents\visual studio 2013\Projects\EXAMMM\03.DiamondTrolls\obj\Debug\03.DiamondTrolls.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\I3. Excel Columns\bin\Debug\I3.Excel_Columns.exe.config
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\I3. Excel Columns\bin\Debug\I3.Excel_Columns.exe
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\I3. Excel Columns\bin\Debug\I3.Excel_Columns.pdb
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\I3. Excel Columns\obj\Debug\I3.Excel_Columns.exe
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\I3. Excel Columns\obj\Debug\I3.Excel_Columns.pdb
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\I3. Excel Columns\obj\Debug\I3. Excel Columns.csprojResolveAssemblyReference.cache

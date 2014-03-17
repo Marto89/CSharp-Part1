@@ -1,0 +1,3 @@
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Task 3 - Forest Road\bin\Debug\Task 3 - Forest Road.exe.config
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Task 3 - Forest Road\obj\Debug\Task 3 - Forest Road.exe
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Task 3 - Forest Road\obj\Debug\Task 3 - Forest Road.pdb

@@ -1,0 +1,6 @@
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\DancingBits\bin\Debug\DancingBits.exe.config
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\DancingBits\bin\Debug\DancingBits.exe
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\DancingBits\bin\Debug\DancingBits.pdb
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\DancingBits\obj\Debug\DancingBits.exe
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\DancingBits\obj\Debug\DancingBits.pdb
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\DancingBits\obj\Debug\DancingBits.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\I2. A-nacci\bin\Debug\I2.A_nacci.exe.config
+C:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\I2. A-nacci\obj\Debug\I2. A-nacci.csprojResolveAssemblyReference.cache
+C:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\I2. A-nacci\bin\Debug\I2.A_nacci.exe
+C:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\I2. A-nacci\bin\Debug\I2.A_nacci.pdb
+C:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\I2. A-nacci\obj\Debug\I2.A_nacci.exe
+C:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\I2. A-nacci\obj\Debug\I2.A_nacci.pdb

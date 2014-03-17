@@ -1,0 +1,9 @@
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\CoffeMachine\bin\Debug\CoffeMachine.exe.config
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\CoffeMachine\bin\Debug\CoffeMachine.exe
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\CoffeMachine\bin\Debug\CoffeMachine.pdb
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\CoffeMachine\obj\Debug\CoffeMachine.csprojResolveAssemblyReference.cache
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\CoffeMachine\obj\Debug\CoffeMachine.exe
+D:\mitio\Telerik\Domashni\HomeWork8.ExamPreparation\CoffeMachine\obj\Debug\CoffeMachine.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ExamPreparation\Foreign Homework\SecondOne\HomeWork8.ExamPreparation\CoffeMachine\bin\Debug\CoffeMachine.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ExamPreparation\Foreign Homework\SecondOne\HomeWork8.ExamPreparation\CoffeMachine\obj\Debug\CoffeMachine.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\ExamPreparation\Foreign Homework\SecondOne\HomeWork8.ExamPreparation\CoffeMachine\obj\Debug\CoffeMachine.pdb

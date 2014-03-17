@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\41.TripleRotationOfDigits\bin\Debug\41.TripleRotationOfDigits.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\41.TripleRotationOfDigits\bin\Debug\41.TripleRotationOfDigits.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\41.TripleRotationOfDigits\bin\Debug\41.TripleRotationOfDigits.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\41.TripleRotationOfDigits\obj\Debug\41.TripleRotationOfDigits.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\41.TripleRotationOfDigits\obj\Debug\41.TripleRotationOfDigits.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\ExamPreparation\41.TripleRotationOfDigits\obj\Debug\41.TripleRotationOfDigits.csprojResolveAssemblyReference.cache

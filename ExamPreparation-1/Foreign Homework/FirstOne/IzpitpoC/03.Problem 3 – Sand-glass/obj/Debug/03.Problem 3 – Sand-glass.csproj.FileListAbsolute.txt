@@ -1,0 +1,5 @@
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\03.Problem 3 – Sand-glass\bin\Debug\03.Problem 3 – Sand-glass.exe.config
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\03.Problem 3 – Sand-glass\bin\Debug\03.Problem 3 – Sand-glass.exe
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\03.Problem 3 – Sand-glass\bin\Debug\03.Problem 3 – Sand-glass.pdb
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\03.Problem 3 – Sand-glass\obj\Debug\03.Problem 3 – Sand-glass.exe
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\03.Problem 3 – Sand-glass\obj\Debug\03.Problem 3 – Sand-glass.pdb

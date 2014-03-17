@@ -1,0 +1,5 @@
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\12.Matrix\bin\Debug\12.Matrix.exe.config
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\12.Matrix\bin\Debug\12.Matrix.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\12.Matrix\bin\Debug\12.Matrix.pdb
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\12.Matrix\obj\Debug\12.Matrix.exe
+C:\Users\Marto\Documents\Visual Studio 2013\Projects\06.Loops-Homework\12.Matrix\obj\Debug\12.Matrix.pdb

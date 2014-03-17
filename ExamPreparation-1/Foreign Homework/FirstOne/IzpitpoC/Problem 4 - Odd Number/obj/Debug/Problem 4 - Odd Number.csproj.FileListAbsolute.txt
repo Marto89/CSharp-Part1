@@ -1,0 +1,6 @@
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Problem 4 - Odd Number\bin\Debug\Problem 4 - Odd Number.exe.config
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Problem 4 - Odd Number\bin\Debug\Problem 4 - Odd Number.exe
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Problem 4 - Odd Number\bin\Debug\Problem 4 - Odd Number.pdb
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Problem 4 - Odd Number\obj\Debug\Problem 4 - Odd Number.exe
+c:\Users\Dinko\documents\visual studio 2013\Projects\IzpitpoC\Problem 4 - Odd Number\obj\Debug\Problem 4 - Odd Number.pdb
+C:\Users\Dinko\Documents\Visual Studio 2013\Projects\IzpitpoC\Problem 4 - Odd Number\obj\Debug\Problem 4 - Odd Number.csprojResolveAssemblyReference.cache
